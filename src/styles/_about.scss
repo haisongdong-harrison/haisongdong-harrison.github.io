@@ -29,7 +29,10 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
-  p {
-    text-align: left;  
+  p.user-description {
+    text-align: left;
+  }
+  p.tldr-user-description {
+    text-align: center;
   }
 }
