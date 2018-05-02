@@ -6,7 +6,26 @@ description:
 
 # User settings
 username: Haisong Dong (Harrison)
-user_description: An enthusiastic Robotics Engineer with an interdisciplinary background and experience in both industrial and domestic robot software development.
+user_description: >
+  I was born and raised in Xi'an where I gained initial experience in programming in elementary school and junior high scholl. I then
+  obtained my B.Eng. degree in Huazhong University of Science and Technology, Wuhan, majored in Energy and Power Engineering. Despite
+  studying very different disciplines, I have devoted most of my spare time in several robot- or automation-themed nationwide competitions,
+  from which I learned the basics of robot and software development.
+  <br/><br/>
+  Afterwards, a new chapter of my life has started in Japan. Under the supervision of Prof. Hiroshi Ishiguro, I received my M.Eng. degree
+  from Osaka University, researching on the design and evaluation of exoskeleton suit. I continued my research of Human-robot interaction
+  in doctoral program on topics such as full-body wearable sensor network and its application in a motor learning assistance coaching system.
+  In the meantime, I completed an entrepreneurial and tech-transfer training program and patented a mobile robot platform as the co-inventor.
+  <br/><br/>
+  With a problem-solving, engineering mindset, I decided to exit the program in the end in order to pivot into a new career in the robot industry.
+  I since joined two startup companies as a founding member developing domestic and industrial robot application, respctively. 
+tldr_user_description: >
+  An enthusiastic robotics/software engineer. <br/>
+  A big fan of the open source community. <br/>
+  A not-so-brilliant researcher. <br/>
+  An entrepreneur-to-be. <br/>
+  A technophile. <br/>
+  
 user_title: Robotics/Software Engineer
 email: haisongdong.harrison@gmail.com
 github_username:  haisongdong-harrison
