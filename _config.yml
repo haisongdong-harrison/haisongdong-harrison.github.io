@@ -36,5 +36,5 @@ github_username:  haisongdong-harrison
 # Google-analytics
 google-analytics:
   id: ""
-
+future: true
 exclude: ['package.json', 'src' , 'node_modules', 'gulpfile.js']
