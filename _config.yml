@@ -1,35 +1,37 @@
 # Site settings
 title: Haisong Dong (Harrison)
-description: 
+description:
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Haisong Dong (Harrison)
 user_description: >
-  I was born and raised in Xi'an where I gained initial experience in programming in elementary school and junior high scholl. I then
+  I was born and raised in Xi'an where I gained my initial experience in programming in elementary school and junior high school. I then
   obtained my B.Eng. degree in Huazhong University of Science and Technology, Wuhan, majored in Energy and Power Engineering. Despite
   studying very different disciplines, I have devoted most of my spare time in several robot- or automation-themed nationwide competitions,
   from which I learned the basics of robot and software development.
   <br/><br/>
-  Afterwards, a new chapter of my life has started in Japan. Under the supervision of Prof. Hiroshi Ishiguro, I received my M.Eng. degree
+  A new chapter of my life started in Japan after that. Under the supervision of Prof. Hiroshi Ishiguro, I received my M.Eng. degree
   from Osaka University. I continued my research of Biomechanics and Human-Machine Interaction in doctoral program. In the meantime, I
   completed an entrepreneurial and tech-transfer training program and patented a mobile robot platform as the co-inventor.
   <br/><br/>
   With an engineering mindset, I decided to exit the program in the end in order to pivot into a new career in the robot industry.
-  I since joined two startup companies as a founding member developing domestic and industrial robot application, respctively. 
+  I since joined two startup companies as a founding member developing domestic and industrial robot application, respctively. I am now working
+  for Ascent Robotics Inc. helping the team building autonomous vehicle technology and AI-enabled pick-and-place solutions.
   <br/><br/>
-  My major responsibility at work is to design and develop robot software, from image processing and motion planning to decision making and
-  business logic. But my interdisciplinary background and working in startup companies made me a generalist as well. So I also do 3D modeling,
-  simulation and data analysis from time to time. These experiences enables me to take the leading role of a development team in various projects.  
+  My major responsibility at work is to design and develop software for various robotic applications, usually with C++ and Python. But honestly
+  I'm passionate about solving software engineering problems in all forms. My interdisciplinary background and experience in startup companies
+  also made me a generalist (e.g. 3D modeling, data analysis, etc.). Despite my preference in first-hand software development as an engineer,
+  I'm no stranger to management and confident in taking a leadership role for software engineering projects when needed.
 tldr_user_description: >
-  An enthusiastic robotics/software engineer. <br/>
+  An enthusiastic software/robotics engineer. <br/>
   A big fan of the open source community. <br/>
   A not-so-brilliant researcher. <br/>
   An entrepreneur-to-be. <br/>
   A technophile. <br/>
-  
-user_title: Robotics/Software Engineer
+
+user_title: Software/Robotics Engineer
 email: haisongdong.harrison@gmail.com
 github_username:  haisongdong-harrison
 
